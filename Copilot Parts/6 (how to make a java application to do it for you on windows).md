@@ -56,3 +56,6 @@ public class CustomUriSchemeCreator {
 This code will add a custom URI scheme to the Windows Registry and associate it with your application. Make sure to replace `"C:\\Path\\To\\YourApp.exe"` with the actual path to your application.
 
 Would you like more details or assistance with any specific part of this process?
+
+
+### <a href="https://github.com/CodePearly/URI-schemes/blob/main/Copilot%20Parts/7%20(make%20a%20gui%20for%20it).md">next</a>
