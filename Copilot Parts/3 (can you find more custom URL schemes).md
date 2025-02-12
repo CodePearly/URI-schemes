@@ -13,3 +13,6 @@ Sure! Here are some examples of custom URL schemes used by various applications:
 - **app**: Used by packaged applications to obtain resources inside a container.
 
 Custom URL schemes allow applications to be launched with specific context data, making it easier to integrate and interact with other apps and services. If you have a specific use case in mind, I can help you find or create a custom URL scheme for it!
+
+
+### <a href="https://github.com/CodePearly/URI-schemes/blob/main/Copilot%20Parts/4%20(how%20to%20make%20your%20own%20URI%20schemes).md">next</a>
