@@ -36,3 +36,6 @@ Creating your own custom URI scheme involves a few steps, depending on the platf
 ```
 
 Would you like more detailed instructions for a specific platform or help with a particular step?
+
+
+### <a href="https://github.com/CodePearly/URI-schemes/blob/main/Copilot%20Parts/5%20(how%20to%20do%20it%20for%20windows%3F).md">next</a>
