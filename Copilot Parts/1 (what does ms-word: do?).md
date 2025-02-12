@@ -9,3 +9,6 @@ Microsoft Word, often called MS Word, is a widely used word processing software 
 - **Mail Merge**: Create personalized mass mailings by merging a document with a data source.
 
 MS Word is a powerful tool for creating professional-quality documents for personal, educational, or business use. Is there something specific you want to know more about or need help with?
+
+
+### <a href="https://github.com/CodePearly/URI-schemes/blob/main/Copilot%20Parts/2%20(what%20does%20the%20link%20%22ms-word%3A%22%20do%3F).md">next</a>
