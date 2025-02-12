@@ -5,4 +5,4 @@ example:
 
 Code: `<p>open <a hef="ms-word:">word click here</a></p>`
 
-To make it work download the example.html
+To make it work download the <a href="https://github.com/CodePearly/URL-schemes/blob/main/example.html">example.html</a>
