@@ -13,3 +13,6 @@ Creating a custom URI scheme on Windows involves modifying the Windows Registry.
 After completing these steps, your custom URI scheme should be ready! You can test it by entering something like `myapp://test` in your web browser or command prompt.
 
 Would you like more detailed instructions or help with a specific step?
+
+
+### <a href="https://github.com/CodePearly/URI-schemes/blob/main/Copilot%20Parts/6%20(how%20to%20make%20a%20java%20application%20to%20do%20it%20for%20you%20on%20windows).md">next</a>
