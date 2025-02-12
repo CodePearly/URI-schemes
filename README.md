@@ -3,6 +3,6 @@ more on URL schemes click <a href="https://en.wikipedia.org/wiki/List_of_URI_sch
 example:
 <p>open <a hef="ms-word:">word click here</a></p>
 
-[word click here](URL:ms-word:)
-
 Code: `<p>open <a hef="ms-word:">word click here</a></p>`
+
+To make it work download the example.html
